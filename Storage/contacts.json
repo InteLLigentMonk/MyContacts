@@ -1,0 +1,90 @@
+[
+  {
+    "FirstName": "Tobias",
+    "LastName": "Vinther",
+    "Soc\u00EDalSecurityNumber": "880718-6666",
+    "Id": "f1d67f8d-25c3-4c27-b5ab-77594e5be0c5",
+    "Email": "Tobias.Vinther88@gmail.com",
+    "Phone": "0735572039",
+    "StreetAddress": "Hallgatan 8",
+    "ZipCode": 31245,
+    "City": "Veinge"
+  },
+  {
+    "FirstName": "2",
+    "LastName": "2",
+    "Soc\u00EDalSecurityNumber": "2",
+    "Id": "e03e519b-e7a6-4551-9d0c-6e3221b4e37c",
+    "Email": "2",
+    "Phone": "2",
+    "StreetAddress": "2",
+    "ZipCode": 2,
+    "City": "2"
+  },
+  {
+    "Company": "Paddokk Co.",
+    "ContactName": "Usman",
+    "OrganisationNumber": "555-7455",
+    "Id": "faafd32f-cd95-4c37-b0b4-69c349f22c2b",
+    "Email": "usman.v@paddokk.com",
+    "Phone": "073-5572039",
+    "StreetAddress": "Colestreet 55",
+    "ZipCode": 90210,
+    "City": "Beverly Hills"
+  },
+  {
+    "Company": "Uffes Byggnads",
+    "ContactName": "Ulf Gudmundsson",
+    "OrganisationNumber": "555-7877",
+    "Id": "0be4008e-72fd-40d2-9c4c-8b0247417c79",
+    "Email": "U.Gudmundsson@Gbygg.se",
+    "Phone": "0765558966",
+    "StreetAddress": "Gotlandsgatan 8",
+    "ZipCode": 34555,
+    "City": "Gotland"
+  },
+  {
+    "Company": "555",
+    "ContactName": "5",
+    "OrganisationNumber": "55555",
+    "Id": "101518d1-249f-4cfe-a9ae-a3f733ec0174",
+    "Email": "5",
+    "Phone": "5",
+    "StreetAddress": "5",
+    "ZipCode": 5,
+    "City": "5"
+  },
+  {
+    "Company": "Spitze",
+    "ContactName": "Peter",
+    "OrganisationNumber": "444-7775",
+    "Id": "0dac067c-9dde-4204-9058-31116dce7154",
+    "Email": "Peter@spize.se",
+    "Phone": "0755442239",
+    "StreetAddress": "Fj\u00E4dergatan 8",
+    "ZipCode": 32225,
+    "City": "Skottorp"
+  },
+  {
+    "FirstName": "Hans",
+    "LastName": "Mattin-Lassei",
+    "Soc\u00EDalSecurityNumber": "850315-7756",
+    "Id": "9b4f00fc-ab99-4aa3-8b06-671e6e4f602b",
+    "Email": "Hans@eps.com",
+    "Phone": "\u002B46720395163",
+    "StreetAddress": "Kungsgatan 12",
+    "ZipCode": 51443,
+    "City": "Solna"
+  },
+  {
+    "Company": "Google",
+    "ContactName": "Chandrayan",
+    "OrganisationNumber": "555-11111",
+    "Id": "fe6b8a94-2960-4cd9-9382-54e1b37c3134",
+    "Email": "Boss@google.com",
+    "Phone": "555-40166",
+    "StreetAddress": "Privet Drive 2",
+    "ZipCode": 87756,
+    "City": "San Fransico"
+  }
+]
