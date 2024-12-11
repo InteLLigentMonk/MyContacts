@@ -63,7 +63,7 @@ public class ContactServices : IContactServices
                     adding = false;
                     break;
                 default:
-                    MenuCloseouts.ValidOption();
+                    MenuCloseouts.InvalidOption();
                     Console.ReadKey();
                     break;
             }
@@ -133,7 +133,7 @@ public class ContactServices : IContactServices
         if (contact == null)
         {
             Console.WriteLine("Contact not found");
-            MenuCloseouts.ValidId(id);
+            MenuCloseouts.InvalidId(id);
             Console.ReadKey();
             return;
         }
@@ -198,7 +198,7 @@ public class ContactServices : IContactServices
                         editing = false;
                         break;
                     default:
-                        MenuCloseouts.ValidOption();
+                        MenuCloseouts.InvalidOption();
                         Console.ReadKey();
                         break;
                 }
@@ -259,7 +259,7 @@ public class ContactServices : IContactServices
                         editing = false;
                         break;
                     default:
-                        MenuCloseouts.ValidOption();
+                        MenuCloseouts.InvalidOption();
                         Console.ReadKey();
                         break;
                 }
@@ -278,7 +278,7 @@ public class ContactServices : IContactServices
         if (contactToDelete == null)
         {
             Console.WriteLine("Contact not found");
-            MenuCloseouts.ValidId(id);
+            MenuCloseouts.InvalidId(id);
             Console.ReadKey();
             return;
         }

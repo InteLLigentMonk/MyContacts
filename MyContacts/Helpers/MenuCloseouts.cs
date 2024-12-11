@@ -41,13 +41,13 @@ public class MenuCloseouts
         }
     }
 
-    public static void ValidOption()
+    public static void InvalidOption()
     {
         Console.Clear();
         Console.WriteLine("Invalid Option, please enter a valid value");
     }
 
-    public static void ValidId(string id)
+    public static void InvalidId(string id)
     {
         Console.Clear();
         MenuService.Logo();

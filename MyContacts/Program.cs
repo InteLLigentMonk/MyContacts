@@ -48,7 +48,7 @@ do
                 isRunning = false;
             break;
         default:
-            MenuCloseouts.ValidOption();
+            MenuCloseouts.InvalidOption();
             MenuCloseouts.BackToMain();
             break;
     }
