@@ -1,5 +1,4 @@
-﻿using Business.Interfaces;
-using Business.Models;
+﻿using Business.Models;
 
 namespace Business.Factories;
 
