@@ -10,14 +10,14 @@ var host = new HostBuilder()
     .ConfigureServices((hostContext, services) =>
     {
         services.AddSingleton<IFileStorageService, FileStorageService>();
-        services.AddSingleton<Business.Interfaces.IContactServices, MyContacts.Services.ContactServices>();
+        services.AddSingleton<IContactServices, ContactServices>();
         services.AddTransient<IBusinessContactModel, BusinessContactModel>();
         services.AddTransient<IPrivateContactModel, PrivateContactModel>();
 
     })
     .Build();
 
-var contactServices = host.Services.GetRequiredService<Business.Interfaces.IContactServices>();
+var contactServices = host.Services.GetRequiredService<IContactServices>();
 
 bool isRunning = true;
 
